@@ -283,6 +283,20 @@ p.description {
   box-shadow: none;
 }
 
+.btn-sucuk {
+    background:brown;
+    box-shadow: 0 6px #957160;
+    color:white;
+  }
+    
+.btn-extra-cheese {
+    background: yellow;
+}
+.btn-mortadella {
+    background: lightgreen;
+}
+
+
 /*------ Price -----*/
 .price {
   right: 0;
@@ -319,6 +333,8 @@ p.description {
   display: block;
   margin-top: 6px;
 }
+
+
 
 /*--- Crust & Sauce ---*/
 .crust {
